@@ -8,3 +8,9 @@ public class Simul2{
 		Thread t2 = new Thread(new Task(r1, r2));
 		t1.start();
 		t2.start();
+		try{
+			t1.join();
+			t2.join();
+		}catch(InterruptedException e){}
+	}
+}
