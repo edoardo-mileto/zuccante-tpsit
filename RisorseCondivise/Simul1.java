@@ -7,5 +7,9 @@ public class simul1{
 		Thread t2 = new Thread(new Task(r));
 		t1.start();
 		t2.start();
+		try{
+			thread1.join();
+			thread2.join();
+		}catch(InterruptedException e){}
 	}
 }
