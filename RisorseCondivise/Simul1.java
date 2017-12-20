@@ -8,8 +8,8 @@ public class simul1{
 		t1.start();
 		t2.start();
 		try{
-			thread1.join();
-			thread2.join();
+			t1.join();
+			t2.join();
 		}catch(InterruptedException e){}
 	}
 }
