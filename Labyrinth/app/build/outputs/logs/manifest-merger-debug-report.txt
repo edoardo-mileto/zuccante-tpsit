@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\553910000450d6116dbbf3a9462b8d05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\99e2ac345a98898454978cc21b652a92\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e4d6e7048d67926293482d6d5cfcddf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\43464305191f0514b1474bcfe11c0a91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0c6ccb6ccd7b45359e99bdb67b9a68e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a5d00fb2f486962b12ba4ce145fd3e51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9cf924b9aa766e6f769339aaec345b20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7b1d865173afe963aa6bee1cc107dea7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\54bd4b7f956ccb3e466f96ad8c0ea216\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\45d697a985eaee66b58bc1faa0424959\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d41133a35b44e8fa4a5f7ea8d8713a1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\83cab9b74db0bc9b26eaa9b5d562815a\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\99e2ac345a98898454978cc21b652a92\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\99e2ac345a98898454978cc21b652a92\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.edoardo.labyrinth.MainActivity
+ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.edoardo.labyrinth.Victory
+ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:19:9-45
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml:19:19-42
+uses-sdk
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\553910000450d6116dbbf3a9462b8d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\553910000450d6116dbbf3a9462b8d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\99e2ac345a98898454978cc21b652a92\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\99e2ac345a98898454978cc21b652a92\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e4d6e7048d67926293482d6d5cfcddf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e4d6e7048d67926293482d6d5cfcddf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\43464305191f0514b1474bcfe11c0a91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\43464305191f0514b1474bcfe11c0a91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0c6ccb6ccd7b45359e99bdb67b9a68e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0c6ccb6ccd7b45359e99bdb67b9a68e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a5d00fb2f486962b12ba4ce145fd3e51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a5d00fb2f486962b12ba4ce145fd3e51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9cf924b9aa766e6f769339aaec345b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9cf924b9aa766e6f769339aaec345b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7b1d865173afe963aa6bee1cc107dea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7b1d865173afe963aa6bee1cc107dea7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\54bd4b7f956ccb3e466f96ad8c0ea216\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\54bd4b7f956ccb3e466f96ad8c0ea216\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\45d697a985eaee66b58bc1faa0424959\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\45d697a985eaee66b58bc1faa0424959\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d41133a35b44e8fa4a5f7ea8d8713a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d41133a35b44e8fa4a5f7ea8d8713a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\83cab9b74db0bc9b26eaa9b5d562815a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\83cab9b74db0bc9b26eaa9b5d562815a\AndroidManifest.xml:20:5-44
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Edoardo\Desktop\Labyrinth\app\src\main\AndroidManifest.xml
