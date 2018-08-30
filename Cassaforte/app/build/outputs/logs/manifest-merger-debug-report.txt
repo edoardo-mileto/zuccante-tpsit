@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51b8b6ada1e43050c05fc1c3edadede6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\fd3461ab2347836125d38089d5110dfc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\c89ef48807fa1d5cf20cb09f05697468\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\ca4924a33307cac8430e788d3f4a38e5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\b6f5a192e7bcfc89cc10d1a675083444\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\e057fc44255bfd6f8de7790e28fa817c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\8acdcda6f68f5141e1a9ad22aebbb6a4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\2a6a8228bd838773c7a2650cdada6b86\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\403d665ecdda57d75bd5cd1213288af0\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51b8b6ada1e43050c05fc1c3edadede6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51b8b6ada1e43050c05fc1c3edadede6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\fd3461ab2347836125d38089d5110dfc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\fd3461ab2347836125d38089d5110dfc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\c89ef48807fa1d5cf20cb09f05697468\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\c89ef48807fa1d5cf20cb09f05697468\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\ca4924a33307cac8430e788d3f4a38e5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\ca4924a33307cac8430e788d3f4a38e5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\b6f5a192e7bcfc89cc10d1a675083444\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\b6f5a192e7bcfc89cc10d1a675083444\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\e057fc44255bfd6f8de7790e28fa817c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\e057fc44255bfd6f8de7790e28fa817c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\8acdcda6f68f5141e1a9ad22aebbb6a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\8acdcda6f68f5141e1a9ad22aebbb6a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\2a6a8228bd838773c7a2650cdada6b86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\2a6a8228bd838773c7a2650cdada6b86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\403d665ecdda57d75bd5cd1213288af0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\403d665ecdda57d75bd5cd1213288af0\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.studente.cassaforte.MainActivity
+ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.studente.cassaforte.ActivityTwo
+ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:19:9-58
+	android:name
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml:19:19-46
+uses-sdk
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51b8b6ada1e43050c05fc1c3edadede6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\51b8b6ada1e43050c05fc1c3edadede6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\fd3461ab2347836125d38089d5110dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\fd3461ab2347836125d38089d5110dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\c89ef48807fa1d5cf20cb09f05697468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\c89ef48807fa1d5cf20cb09f05697468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\ca4924a33307cac8430e788d3f4a38e5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\ca4924a33307cac8430e788d3f4a38e5\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\b6f5a192e7bcfc89cc10d1a675083444\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\b6f5a192e7bcfc89cc10d1a675083444\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\e057fc44255bfd6f8de7790e28fa817c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\e057fc44255bfd6f8de7790e28fa817c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\8acdcda6f68f5141e1a9ad22aebbb6a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\8acdcda6f68f5141e1a9ad22aebbb6a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\2a6a8228bd838773c7a2650cdada6b86\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\2a6a8228bd838773c7a2650cdada6b86\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\403d665ecdda57d75bd5cd1213288af0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\403d665ecdda57d75bd5cd1213288af0\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\Edoardo\Desktop\Android\Cassaforte\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\fd3461ab2347836125d38089d5110dfc\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\fd3461ab2347836125d38089d5110dfc\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\c89ef48807fa1d5cf20cb09f05697468\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\c89ef48807fa1d5cf20cb09f05697468\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\ca4924a33307cac8430e788d3f4a38e5\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\ca4924a33307cac8430e788d3f4a38e5\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\b6f5a192e7bcfc89cc10d1a675083444\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\b6f5a192e7bcfc89cc10d1a675083444\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\e057fc44255bfd6f8de7790e28fa817c\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\e057fc44255bfd6f8de7790e28fa817c\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\8acdcda6f68f5141e1a9ad22aebbb6a4\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\8acdcda6f68f5141e1a9ad22aebbb6a4\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\2a6a8228bd838773c7a2650cdada6b86\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\2a6a8228bd838773c7a2650cdada6b86\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\403d665ecdda57d75bd5cd1213288af0\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\403d665ecdda57d75bd5cd1213288af0\AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Edoardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\73db40503af90ad98faa455f2183bce8\AndroidManifest.xml:27:13-51
